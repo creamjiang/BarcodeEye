@@ -1,4 +1,4 @@
-BarcodeEye
+BarcodeEye 
 ==========
 
 Port of Android's version of ZXing library app to Google Glass
@@ -20,3 +20,4 @@ The latest debug builds are available from our [CI](https://drone.io/github.com/
 
 ### Contribute
 To contribute see our [wiki page](https://github.com/BarcodeEye/BarcodeEye/wiki/Contribute).
+ copy version
